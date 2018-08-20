@@ -1,7 +1,7 @@
 Tatsumicoin integration/staging tree
 ================================
 
-http://tatsumicoin.freeddns.org
+http://tatsumicoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
