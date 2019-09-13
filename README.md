@@ -5,7 +5,7 @@ http://tatsumicoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
-Copyright (c) 2018 Tatsumicoin Developers
+Copyright (c) 2018-2019 Tatsumicoin Developers
 
 What is Tatsumicoin?
 ----------------
